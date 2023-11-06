@@ -40,6 +40,6 @@ Using the SRGAN to reconstruct images of the cifar-10.
 
 The input images and the reconstructed images like below:
 
-**forg:**   ![](/Users/soyo/Desktop/博士申请2024/写真/使用/input/NO.0class6frog.jpg)      <img src="file:///Users/soyo/Desktop/博士申请2024/写真/使用/output/ImageReconstructed4_NO.0class6frog.jpg" title="" alt="" width="86">      **horse:**  ![](/Users/soyo/Desktop/博士申请2024/写真/使用/input/NO.7class7horse.jpg)       <img src="file:///Users/soyo/Desktop/博士申请2024/写真/使用/output/ImageReconstructed4_NO.7class7horse.jpg" title="" alt="" width="86">
+**forg:**   ![](/pic2-1.jpg)      <img src="file:///pic2-2.jpg" title="" alt="" width="86">      **horse:**  ![](/Users/soyo/Desktop/博士申请2024/写真/使用/input/NO.7class7horse.jpg)       <img src="file:///Users/soyo/Desktop/博士申请2024/写真/使用/output/ImageReconstructed4_NO.7class7horse.jpg" title="" alt="" width="86">
 
 **Auto:**  ![](/Users/soyo/Desktop/博士申请2024/写真/使用/input/NO.4class1automobile.jpg).     <img src="file:///Users/soyo/Desktop/博士申请2024/写真/使用/output/ImageReconstructed4_NO.4class1automobile.jpg" title="" alt="" width="87">      **bird:**    ![](/Users/soyo/Desktop/博士申请2024/写真/使用/input/NO.18class2brid.jpg).       <img src="file:///Users/soyo/Desktop/博士申请2024/写真/使用/output/ImageReconstructed4_NO.18class2brid.jpg" title="" alt="" width="85"> 
