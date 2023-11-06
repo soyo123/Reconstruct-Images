@@ -8,7 +8,7 @@ Using the SRGAN to reconstruct images of the cifar-10.
 
 - **Super-resolution:** it is to turn a small-sized picture into a large-sized picture, but this is not the same as normal picture zoom, super-resolution zoomed picture retains more detail
   
-  ![](/Users/soyo/Desktop/博士申请2024/写真/pic1.png)
+  ![](/pic1.png)
   
            This image referenced from :https://arxiv.org/abs/1609.04802
 
