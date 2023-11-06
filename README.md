@@ -34,7 +34,7 @@ Using the SRGAN to reconstruct images of the cifar-10.
 
 - **ImageReconstructed.zip**
   
-  This file which is the images which reconstructed from the input of cifar-10 data set.
+  This file which is the images what are reconstructed from the input of cifar-10 data set.
 
 ##### Results
 
