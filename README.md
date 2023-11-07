@@ -12,13 +12,13 @@ Using the SRGAN to reconstruct images of the cifar-10.
   
            This image referenced from :https://arxiv.org/abs/1609.04802
 
-### Data Set
+## Data Set
 
 - **Training Data Set:** In this reconstruct task which we have used 3136 images of [ImageNet](https://www.image-net.org/).
 
 - **Reconstruct Data Set :** In this reconstruct task which We aimed to reconstruct images in [CIFAR-10.]([CIFAR-10 and CIFAR-100 datasets](https://www.cs.toronto.edu/~kriz/cifar.html))
 
-#### About the files
+## About the files
 
 - **cifar_10_Dataset_Visualization_.ipynb**
   
@@ -36,7 +36,7 @@ Using the SRGAN to reconstruct images of the cifar-10.
   
   This file which is the images what are reconstructed from the input of cifar-10 data set.
 
-##### Results
+## Results
 
 The input images and the reconstructed images like below:
 
